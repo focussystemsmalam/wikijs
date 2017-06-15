@@ -1,26 +1,8 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of Home -->
 
-×
-
-#### Welcome to Focus WikiPedia
-
-
-Close
-
-Top of Form
-
-Bottom of Form
-
-|
- ![](./)
-
-
- |
+![Focuslogo](/uploads/focus/focuslogo.png "Focuslogo")
 # Welcome to Focus Wiki
- |
-| --- | --- |
-
 ## ברוכים הבאים לאתר וויקיפדיה של פוקוס מערכות סחר חוץ
 
 תחומי פעילות עיקריים:
