@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Home -->
 
 ![Focuslogo](/uploads/focus/focuslogo.png "Focuslogo")
-# Welcome to Focus Wiki
+
 ## ברוכים הבאים לאתר וויקיפדיה של פוקוס מערכות סחר חוץ
 
 תחומי פעילות עיקריים:
