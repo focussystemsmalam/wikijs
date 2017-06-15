@@ -1,9 +1,6 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: ![Focuslogo](/uploads/focus/focuslogo.png "Focuslogo") -->
+<!-- SUBTITLE: ## ברוכים הבאים לאתר וויקיפדיה של פוקוס מערכות סחר חוץ -->
 
-![Focuslogo](/uploads/focus/focuslogo.png "Focuslogo")
-
-## ברוכים הבאים לאתר וויקיפדיה של פוקוס מערכות סחר חוץ
 
 תחומי פעילות עיקריים:
 
