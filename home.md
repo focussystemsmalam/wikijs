@@ -1,7 +1,7 @@
 <!-- TITLE:  -->
 ![Focuslogo](/uploads/focus/focuslogo.png "Focuslogo")
 ## ברוכים הבאים לאתר וויקיפדיה של פוקוס מערכות סחר חוץ
-<!-- <div style="direction: rtl;float: left;items-align: center">-->
+<div style="direction: rtl;float: left;items-align: center">
 
 תחומי פעילות עיקריים:
 
@@ -26,4 +26,4 @@
 
 
 [רשימת משימות אצווה]
-<!--</div> -->
+</div>
