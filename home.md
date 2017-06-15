@@ -1,4 +1,5 @@
-<!-- TITLE: ![Focuslogo](/uploads/focus/focuslogo.png "Focuslogo") -->
+<!-- TITLE:  -->
+![Focuslogo](/uploads/focus/focuslogo.png "Focuslogo")
 <!-- SUBTITLE: ## ברוכים הבאים לאתר וויקיפדיה של פוקוס מערכות סחר חוץ -->
 
 
