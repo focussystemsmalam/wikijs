@@ -1,7 +1,7 @@
 <!-- TITLE:  -->
 ![Focuslogo](/uploads/focus/focuslogo.png "Focuslogo")
 ## ברוכים הבאים לאתר וויקיפדיה של פוקוס מערכות סחר חוץ
-
+<!-- <div style=""></div> -->
 
 תחומי פעילות עיקריים:
 
