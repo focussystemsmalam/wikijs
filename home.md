@@ -1,4 +1,3 @@
-
 <!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of Home -->
 
@@ -6,19 +5,6 @@
 
 #### Welcome to Focus WikiPedia
 
-[homepage](http://mongo/roadkill/pages/tag/homepage)
-
-**Created on:**
-2/19/2017 3:46:13 PM
-
-**Created by:**
-admin
-
-**Last modified on:**
-3/27/2017 11:49:48 AM
-
-**Last modified by:**
-limor\_to@malam.com
 
 Close
 
